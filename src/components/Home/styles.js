@@ -19,6 +19,12 @@ const styles = {
     textAlign: 'center',
     fontSize: 30,
   },
+  jokeText: {
+    color: 'white',
+    textAlign: 'center',
+    fontSize: 24,
+    padding: 10,
+  },
 };
 
 export default StyleSheet.create(styles);
